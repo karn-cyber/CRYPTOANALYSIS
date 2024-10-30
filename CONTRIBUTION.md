@@ -7,12 +7,14 @@ Getting Started
 1.	Fork the Repository: Click on the “Fork” button at the top right of this repository to create your own copy.
 2.	Clone Your Fork:
 
-	git clone https://github.com/YOUR_USERNAME/CryptoAnalysis.git
+	
+		git clone https://github.com/YOUR_USERNAME/CryptoAnalysis.git
 
 
 3.	Set Upstream: This helps keep your fork up-to-date with the original repository.
 
-	git remote add upstream https://github.com/ORIGINAL_OWNER/CryptoAnalysis.git
+	
+ 		git remote add upstream https://github.com/ORIGINAL_OWNER/CryptoAnalysis.git
 
 
 
@@ -20,13 +22,15 @@ Making Changes
 
 1.	Create a Branch: Create a new branch for your changes.
 
-	git checkout -b feature/your-feature-name
+	
+ 		git checkout -b feature/your-feature-name
 
 
 2.	Make Your Changes: Implement your code changes, following the coding standards mentioned below.
 3.	Commit Your Changes: Ensure your commit messages are descriptive.
 
-	git commit -m "Add: Brief description of your change"
+	
+ 		git commit -m "Add: Brief description of your change"
 
 
 
@@ -34,7 +38,8 @@ Submitting Your Contribution
 
 1.	Push to Your Fork:
 
-	git push origin feature/your-feature-name
+	
+ 		git push origin feature/your-feature-name
 
 
 2.	Submit a Pull Request (PR): Go to the original repository and create a pull request from your branch.
