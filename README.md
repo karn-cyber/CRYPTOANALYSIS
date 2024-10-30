@@ -62,5 +62,4 @@ Code of Conduct
 By participating in this project, you agree to abide by our Code of Conduct. Please ensure your interactions remain respectful and constructive.
 
 Thank you for helping to improve CryptoAnalysis! Happy coding!
-
-This Markdown format is ready for copy-pasting into your repository's `CONTRIBUTING.md` file. Let me know if you need any adjustments!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
