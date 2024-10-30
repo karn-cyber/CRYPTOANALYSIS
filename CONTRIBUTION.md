@@ -14,7 +14,7 @@ Getting Started
 3.	Set Upstream: This helps keep your fork up-to-date with the original repository.
 
 	
- 		git remote add upstream https://github.com/ORIGINAL_OWNER/CryptoAnalysis.git
+ 		git remote add upstream https://github.com/Lakshya1726/CryptoAnalysis.git
 
 
 
